@@ -1,0 +1,29 @@
+
+p.hide {
+    color:grey;
+}
+p.bold {
+    font-weight: bold;
+    color:black;
+}
+
+p {
+    /* width:18em; */
+    text-align:justify;
+}
+div.textBlock {
+    float: left;
+}
+/* .textBlock {
+    clear: left;
+    display:inline-block;
+    margin-top: 0em;
+} */
+.TextPlay {
+    margin-top: 2em;
+    margin-bottom: 5em;
+    margin-left: 10em;
+    width:100%;
+    display:inline-block;
+    margin-right: 10em;
+}

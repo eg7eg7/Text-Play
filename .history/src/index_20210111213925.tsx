@@ -1,11 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { TextPlay } from './TextPlay';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <App />
     <TextPlay />
   </React.StrictMode>,
   document.getElementById('root')

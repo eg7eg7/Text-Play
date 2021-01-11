@@ -1,0 +1,18 @@
+p {
+    color: navy;
+}
+
+.hide {
+
+}
+.bold {
+    font-weight: bold;
+    color:black
+}
+.TextPlay {
+    display: block;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 10em;
+    margin-right: 10em;
+}

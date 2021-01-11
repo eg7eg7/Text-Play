@@ -1,0 +1,24 @@
+
+.hide {
+    color:grey;
+}
+.bold {
+    font-weight: bold;
+    color:black;
+}
+
+p {
+    clear: left;
+}
+.textBlock {
+    clear: left;
+    display:inline-block
+}
+.TextPlay {
+    display: block;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: 10em;
+    /* display:inline-block; */
+    margin-right: 10em;
+}

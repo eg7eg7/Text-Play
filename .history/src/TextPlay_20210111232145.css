@@ -1,0 +1,23 @@
+
+p.hide {
+    color:grey;
+}
+p.bold {
+    font-weight: bold;
+    color:black;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.textBlock {
+    float: left;
+}
+.TextPlay {
+    margin-top: 2em;
+    margin-bottom: 5em;
+    margin-left: 10em;
+    text-align: justify;
+    width:100%;
+    display:inline-block;
+    margin-right: 10em;
+}
